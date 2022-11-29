@@ -1,0 +1,91 @@
+id;code;name;size;tipo;country
+ADB;ADB;Izmir Adnan Menderes Apt;1248;EU;Turkey
+AGP;AGP;Malaga Airport;1566;EU;Spain
+AMM;AMM;Amman Queen Alia International Apt;3348;extra_EU;Jordan
+AMS;AMS;Amsterdam;6003;EU;Netherlands
+ARN;ARN;Stockholm Arlanda Apt;3132;EU;Sweden
+ATH;ATH;Athens (GR);331247;EU;Greece
+BCN;BCN;Barcelona Apt (ES);8613;EU;Spain
+BEG;BEG;Belgrade Nikola Tesla;3480;EU;Serbia
+BES;BES;Brest (FR);870;EU;France
+BEY;BEY;Beirut;6612;extra_EU;Lebanon
+BLQ;BLQ;Bologna Guglielmo Marconi;2088;EU;Italy
+BOD;BOD;Bordeaux Merignac Apt;3480;EU;France
+BRI;BRI;Bari;780;EU;Italy
+BRU;BRU;Brussels Airport;10872;EU;Belgium
+BSL;BSL;Basel;1392;EU;Switzerland
+BUD;BUD;Budapest;3132;EU;Hungary
+CAI;CAI;Cairo International;11235;extra_EU;Egypt
+CDG;CDG;Paris Charles de Gaulle Apt;29574;EU;France
+CMN;CMN;Casablanca Mohammed V Apt;696;extra_EU;Morocco
+CPH;CPH;Copenhagen Kastrup Apt;4524;EU;Denmark
+CTA;CTA;Catania;1458;EU;Italy
+DBV;DBV;Dubrovnik;2784;EU;Croatia
+DME;DME;Moscow Domodedovo Apt;10614;EU;Russian Federation
+DOL;DOL;Deauville;696;EU;France
+DUB;DUB;Dublin (IE);2610;EU;Ireland Republic of
+DUS;DUS;Duesseldorf International Airport;13425;EU;Germany
+EDI;EDI;Edinburgh;1392;EU;United Kingdom
+ETZ;ETZ;Metz/Nancy Lorraine;696;EU;France
+EVN;EVN;Yerevan;2784;EU;Armenia
+FCO;FCO;Rome Fiumicino Apt;12060;EU;Italy
+FRA;FRA;Frankfurt International Apt;16758;EU;Germany
+GVA;GVA;Geneva;5247;EU;Switzerland
+HAJ;HAJ;Hannover;2958;EU;Germany
+HAM;HAM;Hamburg Airport;4176;EU;Germany
+HBE;HBE;Alexandria Borg el Arab;1092;extra_EU;Egypt
+HEL;HEL;Helsinki-Vantaa;1740;EU;Finland
+HER;HER;Irakleion;31320;EU;Greece
+IBZ;IBZ;Ibiza;666;EU;Spain
+IST;IST;Istanbul Airport;14160;EU;Turkey
+JED;JED;Jeddah;2262;extra_EU;Saudi Arabia
+KBP;KBP;Kiev Borispol Intl Apt;1566;EU;Ukraine
+KLX;KLX;Kalamata;6264;EU;Greece
+KRK;KRK;Krakow John Paul II - Balice;1566;EU;Poland
+LCA;LCA;Larnaca;6612;EU;Cyprus
+LED;LED;St Petersburg Pulkovo Apt;2958;EU;Russian Federation
+LHR;LHR;London Heathrow Apt;18933;EU;United Kingdom
+LIL;LIL;Lille Lesquin Airport;696;EU;France
+LIS;LIS;Lisbon;6105;EU;Portugal
+LUX;LUX;Luxembourg;1392;EU;Luxembourg
+LYS;LYS;Lyon St-exupery Apt;6090;EU;France
+MAD;MAD;Madrid Adolfo Suarez-Barajas Apt;9258;EU;Spain
+MAN;MAN;Manchester (GB);1914;EU;United Kingdom
+MLA;MLA;Malta (MT);1710;EU;Malta
+MRS;MRS;Marseille Provence Apt;6612;EU;France
+MUC;MUC;Munich International Airport;25344;EU;Germany
+MXP;MXP;Milan Malpensa Apt;10926;EU;Italy
+NAP;NAP;Naples Capodichino Apt;2784;EU;Italy
+NCE;NCE;Nice;3654;EU;France
+NTE;NTE;Nantes Atlantique Airport;4350;EU;France
+NUE;NUE;Nuremberg;1566;EU;Germany
+OPO;OPO;Porto;1566;EU;Portugal
+OTP;OTP;Bucharest Henri Coanda Apt;8148;EU;Romania
+PMO;PMO;Palermo;1242;EU;Italy
+PRG;PRG;Prague Ruzyne;5247;EU;Czech Republic
+PSA;PSA;Pisa;1218;EU;Italy
+RAK;RAK;Marrakech;1566;extra_EU;Morocco
+RHO;RHO;Rhodes;11310;EU;Greece
+RUH;RUH;Riyadh King Khalid Intl;2088;extra_EU;Saudi Arabia
+SJJ;SJJ;Sarajevo;468;EU;Bosnia and Herzegovina
+SKG;SKG;Thessaloniki;38220;EU;Greece
+SKP;SKP;Skopje;1014;EU;North Macedonia
+SOF;SOF;Sofia;5916;EU;Bulgaria
+SPU;SPU;Split;1248;EU;Croatia
+STR;STR;Stuttgart Airport;9048;EU;Germany
+SUF;SUF;Lamezia Terme;78;EU;Italy
+TBS;TBS;Tbilisi;3132;EU;Georgia
+TGD;TGD;Podgorica;624;EU;Montenegro
+TIA;TIA;Tirana;6324;EU;Albania
+TLL;TLL;Tallinn;1566;EU;Estonia
+TLS;TLS;Toulouse;3860;EU;France
+TLV;TLV;Tel Aviv-yafo Ben Gurion International;26898;extra_EU;Israel
+TUN;TUN;Tunis;870;extra_EU;Tunisia
+TXL;TXL;Berlin Tegel Apt;5220;EU;Germany
+VCE;VCE;Venice Marco Polo Apt;3654;EU;Italy
+VIE;VIE;Vienna International;6612;EU;Austria
+VLC;VLC;Valencia Airport (ES);1392;EU;Spain
+VRN;VRN;Verona Villafranca Airport;522;EU;Italy
+WAW;WAW;Warsaw Frederic Chopin;5220;EU;Poland
+ZAG;ZAG;Zagreb;1014;EU;Croatia
+ZRH;ZRH;Zurich Airport;10896;EU;Switzerland
