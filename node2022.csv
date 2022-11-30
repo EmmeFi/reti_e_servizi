@@ -1,4 +1,4 @@
-id;id;name;size;tipo;country
+id;code;name;size;tipo;country
 ADB;ADB;Izmir Adnan Menderes Apt;814;EU;Turkey
 AGP;AGP;Malaga Airport;1522;EU;Spain
 AMM;AMM;Amman Queen Alia International Apt;2052;extra_EU;Jordan
